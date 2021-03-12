@@ -16,7 +16,6 @@ const Employee = () => {
                 <th>Email</th>
                 <th>Phone</th>
                 <th>Delete</th>
-                <th>Edit</th>
             </tr>
         </thead>
         <tbody>

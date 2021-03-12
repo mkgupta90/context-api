@@ -19,11 +19,6 @@ const EmployeeDetails = ({Employee}) => {
                     )} 
                     className="btn btn-danger">Delete</button> 
         </td>
-        <td> 
-            <button type="button" 
-                    onClick="" 
-                    className="btn btn-primary">Edit</button> 
-        </td>
         </>
     )
 }
